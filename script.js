@@ -76,5 +76,8 @@ window.addEventListener("scroll", () => {
   }
 });
 
+// Listen for filter input
+filter.addEventListener("input", filterPosts);
+
 // Show initial posts
 showPosts();
