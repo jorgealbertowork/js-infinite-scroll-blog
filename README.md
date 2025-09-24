@@ -1,6 +1,6 @@
 ## js - infinite scrolling blog
 
-display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts
+Display blog posts from [jsonplaceholder](https://jsonplaceholder.typicode.com) and add infinite scroll to fetch posts
 
 ![JS Infinite Scroll Blog](js-infinite-scroll-blog.png)
 
